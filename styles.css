@@ -1,0 +1,25 @@
+
+body {background-color: #a8d0e6}
+h1 {font-family: Poppins, sans-serif;
+        color: white; 
+        padding-left: 10%;
+        padding-top: 10%;}
+p {font-family: Poppins, sans-serif;
+		 color: white;
+		 text-align: left;
+     padding-left: 55%;
+     padding-right: 5%;
+     padding-top: 20%;}
+a:hover {
+  color: #f76c6c;
+  text-decoration:bold;
+}
+a:link {
+  text-decoration:none;
+}
+.buttons {padding-left: 55%; 
+    padding-top: 5%;
+    text-align: center; 
+    color: white; 
+    font-family: Poppins, sans-serif;
+    float: right; }
