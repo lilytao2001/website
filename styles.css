@@ -3,7 +3,8 @@ body {background-color: #a8d0e6}
 h1 {font-family: Poppins, sans-serif;
         color: white; 
         padding-left: 10%;
-        padding-top: 10%;}
+        padding-top: 10%;
+	display: inline;}
 p {font-family: Poppins, sans-serif;
 		 color: white;
 		 text-align: left;
