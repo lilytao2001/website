@@ -20,14 +20,14 @@ h1 {
         color: white; 
         display: table-cell;}
 p {font-family: Poppins, sans-serif;
-		 color: white;
-		 text-align: left;
-     padding-left: 60%;
-  padding-top: 5%;
-  width
-     display: table-cell;}
+	color: white;
+	text-align: left;
+     	padding-left: 60%;
+  	padding-top: 5%;
+  	width: 100%;
+     	display: table-cell;}
 a:hover {
-  color: #f76c6c;
+  color: #24305e;
   text-decoration:bold;
 }
 a:link {
