@@ -22,9 +22,7 @@ h1 {
 p {font-family: Poppins, sans-serif;
 	color: white;
 	text-align: left;
-     	padding-left: 60%;
   	padding-top: 5%;
-  	width: 100%;
      	display: table-cell;}
 a:hover {
   color: #24305e;
@@ -33,7 +31,7 @@ a:hover {
 a:link {
   text-decoration:none;
 }
-.buttons {padding-left: 45%; 
+.buttons {padding-left: 35%; 
     padding-top: 5%;
     text-align: center; 
     color: white; 
@@ -41,4 +39,5 @@ a:link {
     float: right; }
 img {
 	padding-right: 10%;
+	display: table-cell;
 }
