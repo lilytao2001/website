@@ -35,7 +35,7 @@ a:link {
     text-align: center; 
     color: white; 
     font-family: Poppins, sans-serif;
-    float: right; }
+    /*float: right;*/ }
 img {
 	padding-right: 10%;
 	display: table-cell;
