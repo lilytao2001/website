@@ -1,5 +1,12 @@
-
 #header {
+  display:table;
+  width: 100%;
+  padding-left: 10%;
+  padding-top: 5%;
+  padding-right: 10%;
+}
+#middle
+{
   display:table;
   width: 100%;
   padding-left: 10%;
@@ -15,11 +22,12 @@ h1 {
 p {font-family: Poppins, sans-serif;
 		 color: white;
 		 text-align: left;
-     padding-left: 55%;
-     padding-right: 5%;
-     padding-top: 13%;}
+     padding-left: 60%;
+  padding-top: 5%;
+  width
+     display: table-cell;}
 a:hover {
-  color: #24305e;
+  color: #f76c6c;
   text-decoration:bold;
 }
 a:link {
@@ -32,5 +40,5 @@ a:link {
     font-family: Poppins, sans-serif;
     float: right; }
 img {
-	align: left;
+	padding-right: 10%;
 }
