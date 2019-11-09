@@ -21,8 +21,7 @@ h1 {
         display: table-cell;}
 p {font-family: Poppins, sans-serif;
 	color: white;
-	text-align: left;
-  	padding-top: 5%;
+	/*text-align: left;*/
      	display: table-cell;}
 a:hover {
   color: #24305e;
