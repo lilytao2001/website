@@ -20,12 +20,12 @@ h1 {
         color: white; 
         display: table-cell;}
 p {font-family: Poppins, sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 	color: white;
 	padding-top: 10%;
 	padding-left: 30%;
 	/*text-align: left;*/
-     	display: table-cell;}
+     	/*display: table-cell;*/}
 a:hover {
   color: #24305e;
   text-decoration:bold;
@@ -34,7 +34,7 @@ a:link {
   text-decoration:none;
 }
 .buttons {padding-left: 35%; 
-    padding-top: 10%;
+    padding-top: 7%;
     text-align: center; 
     color: white; 
     font-family: Poppins, sans-serif;
