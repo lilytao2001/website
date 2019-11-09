@@ -6,6 +6,11 @@
   padding-top: 5%;
   padding-right: 10%;
 }
+#middle {
+	display:table;
+	width:100%
+	
+}
 body {background-color: #a8d0e6}
 h1 {
 	font-size: 70px;
@@ -32,5 +37,6 @@ a:link {
     font-family: Poppins, sans-serif;
     float: right; }
 img {
-	padding-right: 60%;
+	padding-left: 60%;
+	display:table-cell;
 }
