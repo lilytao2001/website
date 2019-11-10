@@ -41,6 +41,7 @@ a:link {
     font-family: Poppins, sans-serif;
     /*float: right;*/ }
 img {
-	padding-left: 20%;
-	padding-top: 10%;
+	/*padding-left: 20%;
+	padding-top: 10%;*/
+	float:left;
 }
