@@ -33,7 +33,7 @@ p {font-family: Poppins, sans-serif;
 	display: inline-block;
 	vertical-align: middle;
 	padding-top: 15%;
-	padding-right: 10%;
+	padding-right: 5%;
 	padding-left: 60%;
 	/*width: 100%;*/
 
@@ -54,6 +54,4 @@ a:link {
 img {
 	/*padding-left: 20%;
 	padding-top: 10%;*/
-	display: inline-block;
-	vertical-align: middle;
 }
