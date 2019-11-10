@@ -32,8 +32,8 @@ p {
 	font-size: 18px;
 	color: white;
 	padding-top: 12%;
-	padding-right: 5%;
-	padding-left: 60%;
+	padding-right: 10%;
+	padding-left: 55%;
 	/*width: 100%;*/
 
 	/*text-align: left;*/}
@@ -44,11 +44,13 @@ a:hover {
 a:link {
   text-decoration:none;
 }
-.buttons {padding-left: 35%; 
-    padding-top: 3%;
-    text-align: center; 
-    color: white; 
-    font-family: 'Questrial', sans-serif;
+.buttons {
+	padding-left: 35%; 
+    	padding-top: 3%;
+   	text-align: center; 
+   	color: white; 
+   	font-family: 'Questrial', sans-serif;
+	font-size: 12px;
     /*float: right;*/ }
 img {
 	padding-right: 5%;
