@@ -46,11 +46,11 @@ a:link {
 }
 .buttons {
 	padding-left: 35%; 
-    	padding-top: 0%;
+    	padding-top: 1%;
    	text-align: center; 
    	color: white; 
    	font-family: 'Questrial', sans-serif;
-	font-size: 12px;
+	font-size: 14px;
     /*float: right;*/ }
 img {
 	padding-right: 5%;
