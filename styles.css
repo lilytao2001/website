@@ -25,6 +25,7 @@ p {font-family: Poppins, sans-serif;
 	padding-top: 10%;
 	padding-left: 10%;
 	width: 100%;
+	display: table-cell;
 	/*text-align: left;*/}
 a:hover {
   color: #24305e;
