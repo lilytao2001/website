@@ -24,10 +24,10 @@
 body {background-color: #a8d0e6}
 h1 {
 	font-size: 70px;
-	font-family: Poppins, sans-serif;
+	font-family: 'Bitter', serif;
         color: white; 
         display: table-cell;}
-p {font-family: Poppins, sans-serif;
+p {font-family: 'Bitter', serif;
 	font-size: 18px;
 	color: white;
 	padding-top: 12%;
@@ -47,7 +47,7 @@ a:link {
     padding-top: 3%;
     text-align: center; 
     color: white; 
-    font-family: Poppins, sans-serif;
+    font-family: 'Bitter', serif;
     /*float: right;*/ }
 img {
 	padding-right: 5%;
