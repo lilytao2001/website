@@ -1,13 +1,13 @@
 #header {
-  display:inline-block;
+  display:table;
   width: 100%;
   padding-left: 10%;
   padding-top: 5%;
   padding-right: 10%;
 }
-#middle
+.middle
 {
-  display:table;
+  display: inline-block;
   width: 100%;
   padding-left: 10%;
   padding-top: 5%;
