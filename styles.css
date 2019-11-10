@@ -5,13 +5,21 @@
   padding-top: 5%;
   padding-right: 10%;
 }
-.middle
+.row::after
 {
-  display: inline-block;
-  width: 100%;
-  padding-left: 10%;
-  padding-top: 5%;
-  padding-right: 10%;
+  	content: "";
+  	clear: both;
+  	display: table; 
+  	/*width: 100%;
+  	padding-left: 10%;
+  	padding-top: 5%;
+  	padding-right: 10%;*/
+}
+.column
+{
+	float:left;
+	width: 33.33%;
+	padding: 10%
 }
 body {background-color: #a8d0e6}
 h1 {
