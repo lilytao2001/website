@@ -42,7 +42,8 @@ a:link {
   
 a:hover {
   color: #34647e;
-  text-decoration:bold;
+  font-weight: 530;
+  letter-spacing: 13px;
 }
 
 ul {
